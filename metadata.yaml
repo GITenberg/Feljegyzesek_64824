@@ -1,11 +1,16 @@
 _repo: Feljegyzesek_64824
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ignotus
     gutenberg_agent_id: '33477'
     url: http://www.gutenberg.org/2009/agents/33477
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64824#Feljegyzesek
 gutenberg_issued: '2021-03-15'
 gutenberg_type: Text
 identifiers:
